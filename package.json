@@ -1,5 +1,5 @@
 {
-  "name": "grapqhl-query-to-json",
+  "name": "graphql-query-to-json",
   "version": "0.0.0",
   "main": "dist/index.mjs",
   "author": "Roberto Tonino",
